@@ -32,7 +32,7 @@ h2{
   text-decoration-color: #e31b6d;
 }
 .text-highlight{
-  color:#355c7d;
+  color:#893960;
 }
 .know-me-btn{
   margin-top: 3em;
@@ -93,10 +93,10 @@ h2{
   color: #1b242f;
 }
 #contact a:hover {
-  color: #037C80;
+  color: #c06c84;
 }
 #contact a:active {
-  color: #037C80;
+  color: #c06c84;
 }
 #contact p{
   font-size: 1.5em;
@@ -293,13 +293,13 @@ figcaption.bootstrap-ico-position{
   color: #e31b6d;
 }
 .btn-outline-info{
-  color: #355c7d;
+  color:#893960;
   background-color: transparent;
   background-image: none;
-  border-color: #355c7d;
+  border-color: #893960;
 }
 .btn-outline-info:hover{
   color: #fff;
-  background-color: #f8b195;
+  background-color:#e09fa6;
   border-color: #ced4da;
 }
